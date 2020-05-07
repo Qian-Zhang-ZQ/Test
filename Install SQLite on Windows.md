@@ -4,7 +4,7 @@ This document introduces how to install SQLite on Windows.
 
 ### Download Installation File
 
-Download the latest  installation file from <https://sqlite.org/download.html> :
+Download the latest  installation files from <https://sqlite.org/download.html> :
 
 **sqlite-dll-win32-x86-3310100.zip**; **sqlite-tools-win32-x86-3310100.zip**.
 
@@ -24,7 +24,7 @@ Download the latest  installation file from <https://sqlite.org/download.html> :
 
 3. Check whether the installation is successful.
 
-   Open cmd window, input sqlite3. If the installation is successful, the terminal will return the **version information** as follows:
+   Open **cmd window**, input **sqlite3**. If the installation is successful, the terminal will return the **version information** as follows:
 
    ~~~
    
