@@ -20,7 +20,7 @@
 
 3.测试是否安装成功
 
-在打开cmd，输入sqlite3，若如下显示打印**版本号**，则安装成功
+在打开**cmd**，输入**sqlite3**，若如下显示打印**版本号**，则安装成功
 
 ~~~C:\Users\zuoxi>sqlite3
 C:\Users\zuoxi>sqlite3
