@@ -10,11 +10,11 @@ Download the latest  installation file from <https://sqlite.org/download.html> :
 
 ###  Installation Steps
 
-1. Unzip the downloaded  installation files to the same directory, e.g.:**D:\SQLite**; then you have the follow files: **sqlite3.def**,  **sqlite3.dll **,  **sqlite3.exe** ，**sqlite3_analyzer.exe**，**sqldiff.exe**.
+1. Unzip the downloaded  installation files to the same directory, e.g.:**D:\SQLite**; then you have the follow files: **sqlite3.def**,  **sqlite3.dll**,  **sqlite3.exe** ，**sqlite3_analyzer.exe**，**sqldiff.exe**.
 
 2. Add path to Environment Variables:
 
-     (1) Right-click the **Computer icon** -> click **Properties **->click **Advanced System settings**->     click **Environment variables**,
+     (1) Right-click the **Computer icon** -> click **Properties**->click **Advanced System settings**->     click **Environment variables**,
 
      (2) Find the **Path Environment variables**,
 
