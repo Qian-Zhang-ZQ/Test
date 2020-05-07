@@ -14,7 +14,7 @@ Download the latest  installation file from <https://sqlite.org/download.html> :
 
 2. Add path to Environment Variables:
 
-     (1) Right-click the **Computer icon** -> click **Properties **->click **Advanced System settings **->     click **Environment variables**,
+     (1) Right-click the **Computer icon** -> click **Properties **->click **Advanced System settings**->     click **Environment variables**,
 
      (2) Find the **Path Environment variables**,
 
